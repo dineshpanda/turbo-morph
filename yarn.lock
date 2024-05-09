@@ -1204,10 +1204,10 @@ mkdirp@^1.0.3, mkdirp@^1.0.4:
   resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-1.0.4.tgz#3eb5ed62622756d79a5f0e2a221dfebad75c2f7e"
   integrity sha512-vVqVZQyf3WLx2Shd0qJ9xuvqgAyKPLAiqITEtqW0oIUjzo3PePDd6fW9iFz30ef7Ysp/oiWqbhszeGWW2T6Gzw==
 
-"morphdom@>= 2.6, < 2.7":
-  version "2.6.2"
-  resolved "https://registry.yarnpkg.com/morphdom/-/morphdom-2.6.2.tgz#fdb75032af7421c0b3115899cdee96a031b6b673"
-  integrity sha512-4RYdPa8ZUIdxiUsSrv6J1Ll+eF+lUt4K8+GGylRgMnwRMkJVexGR9HuVoI9D+1In2+Qn8IsRmY65xXNRnt9JOQ==
+"morphdom@>= 2.7":
+  version "2.7.2"
+  resolved "https://registry.yarnpkg.com/morphdom/-/morphdom-2.7.2.tgz#d48a87254f9b3031c0e1ec367736721fbaf22167"
+  integrity sha512-Dqb/lHFyTi7SZpY0a5R4I/0Edo+iPMbaUexsHHsLAByyixCDiLHPHyVoKVmrpL0THcT7V9Cgev9y21TQYq6wQg==
 
 ms@2.1.2:
   version "2.1.2"

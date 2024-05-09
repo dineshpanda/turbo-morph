@@ -33,7 +33,7 @@
     "vitest": "^0.18.1"
   },
   "dependencies": {
-    "morphdom": ">= 2.6, < 2.7"
+    "morphdom": ">= 2.7"
   },
   "peerDependencies": {
     "@hotwired/turbo": ">= 7.2"
